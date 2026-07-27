@@ -1,6 +1,10 @@
-# HACKATHON
+PeerTutor is a full-stack web application designed to automate matching between high school student tutors and peers based on subject expertise, scheduling availability, and learning styles.
 
-## LINK TO WEBSITE: https://matt-w1566.github.io/PeerTutor/
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+- **Backend:** Node.js, Express (custom routing and account creation)
 
-**PeerTutor** is a web app that connects high school students with peer tutors at their school based on availability, subject expertise, and learning style compatibility. The app is designed for seamless, on-demand academic support, with smart scheduling, personalized matching, and intuitive communication between students and other student tutors.
-
+## 💡 How It Works
+1. **Account Creation:** Students and tutors register and input their subjects, weekly availability blocks, and learning style preferences.
+2. **Matching Engine:** The backend runs a weighted matching algorithm to evaluate tutor expertise and soft-skill compatibility before checking calendar availability.
+3. **On-Demand Support:** Once a match is made, the platform facilitates scheduling.
