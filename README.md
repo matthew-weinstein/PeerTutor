@@ -1,7 +1,7 @@
 PeerTutor is a full-stack web application designed to automate matching between high school student tutors and peers based on subject expertise, scheduling availability, and learning styles.
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+- **Frontend:** React, JavaScript, CSS
 - **Backend:** Node.js, Express (custom routing and account creation)
 
 ## 💡 How It Works
